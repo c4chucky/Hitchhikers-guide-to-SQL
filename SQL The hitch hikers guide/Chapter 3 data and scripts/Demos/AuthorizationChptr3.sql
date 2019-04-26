@@ -1,0 +1,1 @@
+ALTER AUTHORIZATION ON DATABASE::[Chapter 3 - Sales (Keyed) ] TO sa;
